@@ -6,7 +6,7 @@
 
 <div align = "center" > 
    
-   Olá, me chamo Jeferson. Sou um programador junior, aspirante a designer e atualmente possuo o backend como método de desenvolvimento principal. Me encontro cursando Análise e Desenvolvimento de Sistemas e estou ansioso para aprimorar minhas técnicas de desenvolvimento e encarar novos desafios ao decorrer dessa eterna aprendizagem!
+   Olá, me chamo Jeferson. Sou um programador junior, aspirante a designer e atualmente me identifico como um desenvolvedor Full Stack, mas estou me aperfeiçoando com calma e por agora meu foco está no front end. Me encontro cursando Análise e Desenvolvimento de Sistemas e estou ansioso para aprimorar minhas técnicas de desenvolvimento e encarar novos desafios ao decorrer dessa eterna aprendizagem!
 
    Fiz dois anos de uma escola técnica, pórem, depois disso tive de mudar de escola. Nessa escola aprendi muito sobre lógica de programação, rede de computadores, POO, banco de dados e outros fatores do campo de técnologia.
 
