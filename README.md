@@ -12,11 +12,11 @@ Cursei dois anos de uma escola técnica, pórem, depois disso tive de mudar de e
       
    ### 💻 Main Skills
    
-   ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,c#,mysql,sass,git)
+   ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,cs,mysql)
    
-   ### 👨‍💻 To Study
+   ### 👨‍💻 Also Know
    
-   
+   ![Skills](https://skillicons.dev/icons?i=sass,git)
 
 </div>
 
