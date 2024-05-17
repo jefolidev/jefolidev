@@ -12,7 +12,7 @@ Cursei dois anos de uma escola técnica, pórem, depois disso tive de mudar de e
       
    ### 💻 Main Skills
    
-   ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,sass,git)
+   ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,c#,mysql,sass,git)
    
    ### 👨‍💻 To Study
    
