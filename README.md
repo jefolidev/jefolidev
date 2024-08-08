@@ -12,11 +12,11 @@ Atuei recentemente numa empresa em que desenvolvi um site para elevar as vendas 
       
     💻 Main Skills
    
-   ![Skills](https://skillicons.dev/icons?i=ts,next,nodejs,express,php,cs,mysql)
+   ![Skills](https://skillicons.dev/icons?i=ts,next,nodejs,express,php,mysql)
    
     👨‍💻 Also Know
    
-   ![Skills](https://skillicons.dev/icons?i=figma,git,prisma)
+   ![Skills](https://skillicons.dev/icons?i=figma,git,prisma,cs)
 
 </div>
 
