@@ -7,16 +7,16 @@ Olá, me chamo Jeferson. Sou dev Full Stack. Me encontro <b>cursando Análise e 
 Atuei recentemente numa empresa em que desenvolvi um site para elevar as vendas e melhorar a visibilidade da loja. Gosto de ser útil e agregador para o meu time.
 
 
-<div align = "center">
+<div align = 'center'>
 
       
-   ### 💻 Main Skills
+    💻 Main Skills
    
-   ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,cs,mysql)
+   ![Skills](https://skillicons.dev/icons?i=ts,next,nodejs,express,php,cs,mysql)
    
-   ### 👨‍💻 Also Know
+    👨‍💻 Also Know
    
-   ![Skills](https://skillicons.dev/icons?i=sass,git)
+   ![Skills](https://skillicons.dev/icons?i=figma,git,prisma)
 
 </div>
 
