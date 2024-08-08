@@ -2,9 +2,9 @@
 
 #  Olá, sou Jeferson! 👋 
 
-Olá, me chamo Jeferson. Sou um programador junior, atualmente me identifico como um desenvolvedor <b>Full Stack</b>, mas estou me aperfeiçoando com calma e por agora meu foco está no <b>Front End</b>. Me encontro <b>cursando Análise e Desenvolvimento de Sistemas</b> e estou ansioso para aprimorar minhas técnicas de desenvolvimento e encarar novos desafios ao decorrer dessa eterna aprendizagem!
+Olá, me chamo Jeferson. Sou dev Full Stack. Me encontro <b>cursando Análise e Desenvolvimento de Sistemas</b> e estou ansioso para aprimorar minhas técnicas de desenvolvimento e encarar novos desafios ao decorrer dessa eterna aprendizagem!
 
-Cursei dois anos de uma escola técnica, pórem, depois disso tive de mudar de escola. Nessa escola aprendi muito sobre <b>lógica de programação, rede de computadores, POO, banco de dados</b> e outros fatores do campo de técnologia.
+Atuei recentemente numa empresa em que desenvolvi um site para elevar as vendas e melhorar a visibilidade da loja. Gosto de ser útil e agregador para o meu time.
 
 
 <div align = "center">
