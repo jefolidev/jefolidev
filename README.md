@@ -12,7 +12,7 @@ Atuei recentemente numa empresa em que desenvolvi um site para elevar as vendas 
       
     💻 Main Skills
    
-   ![Skills](https://skillicons.dev/icons?i=ts,nodejs,express)
+   ![Skills](https://skillicons.dev/icons?i=ts,react,nodejs,express,nestjs,jest,vitest)
    
     👨‍💻 Also Know
    
