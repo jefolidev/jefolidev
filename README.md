@@ -16,7 +16,7 @@ Atuei recentemente numa empresa em que desenvolvi um site para elevar as vendas 
    
     👨‍💻 Also Know
    
-   ![Skills](https://skillicons.dev/icons?i=figma,git,prisma,cs)
+   ![Skills](https://skillicons.dev/icons?i=figma,git,prisma,cs,postgresql,mongodb)
 
 </div>
 
