@@ -6,10 +6,12 @@ Olá, me chamo Jeferson. Sou dev Full Stack. Me encontro <b>cursando Análise e 
 
 Atuei recentemente numa empresa em que desenvolvi um site para elevar as vendas e melhorar a visibilidade da loja. Gosto de ser útil e agregador para o meu time.
 
+<div align = "center"> 
+   <img width = "900" src = "https://i.ibb.co/bNJ0Lxz/mario.png">
+</div>
 
 <div align = 'center'>
 
-      
     💻 Main Skills
    
    ![Skills](https://skillicons.dev/icons?i=ts,react,nodejs,nestjs,vitest,java,spring,mockito)
@@ -21,6 +23,3 @@ Atuei recentemente numa empresa em que desenvolvi um site para elevar as vendas 
 </div>
 
 
-<div align = "center"> 
-   <img width = "900" src = "https://i.ibb.co/bNJ0Lxz/mario.png">
-</div>
