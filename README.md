@@ -14,7 +14,7 @@ I'm a Full Stack developer, and I already work in this field, but my dream is to
 • 🔧 Main Languages: Typescript, Java, C#<br>
 • ⚡ I used to dream of becoming a professional volleyball player<br>
 
-<div align = 'center'>
+<div>
 
     💻 Main Skills
    
