@@ -4,8 +4,8 @@
 
 I'm a Full Stack developer, and I already work in this field, but my dream is to work abroad. I really want to be happy doing what i love.
 
-### About me
-
+    💻 About me
+    
 • 💻 Full Stack Dev at **Scitus**<br>
 • 🔧 Main Languages: Typescript, Java, C#<br>
 • ⚡ I used to dream of becoming a professional volleyball player<br>
