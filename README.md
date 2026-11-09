@@ -1,10 +1,8 @@
 <body>
 
-#  Olá, sou Jeferson! 👋 
+#  Greetings, I'm Jeferson! 👋 
 
-Olá, me chamo Jeferson. Sou dev Full Stack. Me encontro <b>cursando Análise e Desenvolvimento de Sistemas</b> e estou ansioso para aprimorar minhas técnicas de desenvolvimento e encarar novos desafios ao decorrer dessa eterna aprendizagem!
-
-Atuei recentemente numa empresa em que desenvolvi um site para elevar as vendas e melhorar a visibilidade da loja. Gosto de ser útil e agregador para o meu time.
+I'm a Full Stack developer, and I already work in this field, but my dream is to work abroad. I really want to be happy doing what i love.
 
 <div align = "center"> 
    <img width = "900" src = "https://i.ibb.co/bNJ0Lxz/mario.png">
