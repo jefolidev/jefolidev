@@ -6,9 +6,9 @@ I'm a Full Stack developer, and I already work in this field, but my dream is to
 
 ### About me
 
-• 💻 Full Stack Dev at **Scitus**
-• 🔧 Main Languages: Typescript, Java, C#
-• ⚡ I used to dream of becoming a professional volleyball player
+• 💻 Full Stack Dev at **Scitus**<br>
+• 🔧 Main Languages: Typescript, Java, C#<br>
+• ⚡ I used to dream of becoming a professional volleyball player<br>
 
 <div align = "center"> 
    <img width = "900" src = "https://i.ibb.co/bNJ0Lxz/mario.png">
